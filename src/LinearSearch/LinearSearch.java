@@ -1,4 +1,4 @@
-package LInearSearch;
+package LinearSearch;
 
 import Generator.ArrayGenerator;
 
